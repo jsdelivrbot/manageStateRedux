@@ -15,12 +15,12 @@ class BookList extends Component {
       <ul className="list-group col-sm-4">
         {this.renderList()}
       </ul>
-    );
+    )
   }
 }
 function mapStateToProps(state) {
-  return (
+  return {
     books: state.books
-  );
+  }
 }
 export default connect(mapStateToProps)(BookList);
