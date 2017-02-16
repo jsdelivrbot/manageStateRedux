@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+Manage App State with Redux
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
