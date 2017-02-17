@@ -4,6 +4,6 @@ export default function() {
     {title: 'Harry Potter', pages: 1234},
     {title: 'The Dark Tower', pages: 2323},
     {title: 'Eloquent Ruby', pages: 50},
-    {title: 'Clint the Great', pages: 598}
+    {title: 'Clint the Great', pages: 2598}
   ]
 }
